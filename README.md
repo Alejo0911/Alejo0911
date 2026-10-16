@@ -22,12 +22,4 @@ Estudiante de ingeniería de sistemas y desarrollador de software enfocado en la
 * **CaliTransparente:** **(En construcion)** Plataforma de tecnología cívica para la trazabilidad y análisis de contratación pública en Cali.
   * *Stack:* Python (ETL pipelines), PostgreSQL, Vue.js, Leaflet, Chart.js.
 * **Mini E-commerce con Reserva Temporal de Stock:** **(En construcion)** Un sistema de comercio electrónico de alta consistencia diseñado para gestionar concurrencia masiva mediante bloqueos transaccionales pesimistas/optimistas, expiración automática de reservas (TTL) y reversión atómica de inventario.
- * *Stack:* spring boot, PostgreSQL, Vue.js. 
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejo0911&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+  * *Stack:* spring boot, PostgreSQL, Vue.js. 
